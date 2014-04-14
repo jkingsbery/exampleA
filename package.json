@@ -1,0 +1,10 @@
+{
+  "name": "exampleB", 
+  "version": "1.0.0", 
+  "main": "./exampleB.js",
+  "dependencies": {
+    "exampleB" : "git+https://github.com/jkingsbery/exampleB.git#1.0.0",
+    "exampleC" : "git+https://github.com/jkingsbery/exampleC.git#1.0.1"
+  }
+
+}
